@@ -1,0 +1,253 @@
+﻿URN,Unique Response Number
+Q1,How old are you? (Years)
+Q2,Gender assigned at birth?
+1,Male
+2,Female
+3,Rather not say
+Q3,(A) 7kg immediately or (B) 8kg in 13 days?
+1,A
+2,B
+Q4,(A) 3kg immediately or (B) 5kg in 2 days?
+1,A
+2,B
+Q5,(A) 7kg immediately or (B) 9kg in 10 days?
+1,A
+2,B
+Q6,(A) 6kg immediately or (B) 8kg in 7 days?
+1,A
+2,B
+Q7,(A) 5kg immediately or (B) 6kg in 13 days?
+1,A
+2,B
+Q8,(A) 2kg immediately or (B) 4kg in 3 days?
+1,A
+2,B
+Q9,(A) 3kg immediately or (B) 4kg in 20 days?
+1,A
+2,B
+Q10,(A) 2kg immediately or (B) 6kg in 1 day?
+1,A
+2,B
+Q11,(A) 2kg immediately or (B) 3kg in 14 days?
+1,A
+2,B
+Q12,(A) 1kg immediately or (B) 3kg in 2 days?
+1,A
+2,B
+Q13,(A) 5kg immediately or (B) 8kg in 3 days?
+1,A
+2,B
+Q14,(A) 2kg immediately or (B) 3kg in 1 day?
+1,A
+2,B
+Q15,(A) 4kg immediately or (B) 8kg in 2 days?
+1,A
+2,B
+Q16,(A) 3kg immediately or (B) 6kg in 2 days?
+1,A
+2,B
+Q17,(A) 5kg immediately or (B) 6kg in 12 days?
+1,A
+2,B
+Q18,(A) 1kg immediately or (B) 3kg in 1 day?
+1,A
+2,B
+Q19,(A) 5kg immediately or (B) 6kg in 10 days?
+1,A
+2,B
+Q20,(A) 3kg immediately or (B) 9kg in 1 day?
+1,A
+2,B
+Q21,(A) 2kg immediately or (B) 3kg in 6 days?
+1,A
+2,B
+Q22,(A) 4kg immediately or (B) 6kg in 7 days?
+1,A
+2,B
+Q23,(A) 3kg immediately or (B) 8kg in 2 days?
+1,A
+2,B
+Q24,(A) 3kg immediately or (B) 5kg in 3 days?
+1,A
+2,B
+Q25,(A) 8kg immediately or (B) 9kg in 17 days?
+1,A
+2,B
+Q26,(A) 24 bites immediately or (B) 35 bites in 1 hour?
+1,A
+2,B
+Q27,(A) 11 bites immediately or (B) 25 bites in 15 hours?
+1,A
+2,B
+Q28,(A) 9 bites immediately or (B) 13 bites in 1 hour?
+1,A
+2,B
+Q29,(A) 5 bites immediately or (B) 8 bites in 1 hour and 30 minutes?
+1,A
+2,B
+Q30,(A) 4 bites immediately or (B) 8 bites in 5 hours?
+1,A
+2,B
+Q31,(A) 5 bites immediately or (B) 10 bites in 6 hours?
+1,A
+2,B
+Q32,(A) 21 bites immediately or (B) 30 bites in 30 minutes?
+1,A
+2,B
+Q33,(A) 15 bites immediately or (B) 35 bites in 10 hours?
+1,A
+2,B
+Q34,(A) 25.5 bites immediately ot (B) 40 bites in 1 hour and 30 minutes?
+1,A
+2,B
+Q35,(A) 5 bites immediately or (B) 13 bites in 12 hours?
+1,A
+2,B
+Q36,(A) 15 bites immediately or (B) 30 bites in 5 hours?
+1,A
+2,B
+Q37,(A) 25 bites immediately or (B) 45 bites in 2 hours and 30 minutes?
+1,A
+2,B
+Q38,(A) 28 bites immediately or (B) 45 bites in 24 hours?
+1,A
+2,B
+Q39,(A) 15 bites immediately or (B) 35 bites in 8 hours?
+1,A
+2,B
+Q40,(A) 17 bites immediately or (B) 40 bites in 10 hours?
+1,A
+2,B
+Q41,(A) 22 bites immediately or (B) 50 bites in 15 hours?
+1,A
+2,B
+Q42,(A) 16 bites immediately or (B) 25 bites in 1 hour and 30 minutes?
+1,A
+2,B
+Q43,(A) 23 bites immediately or (B) 50 bites in 7 hours?
+1,A
+2,B
+Q44,(A) 19 bites immediately or (B) 30 bites in 23 hours?
+1,A
+2,B
+Q45,(A) 5 bites immediately or (B) 8 bites in 24 hours?
+1,A
+2,B
+Q46,(A) 7 bites immediately or (B) 10 bites in 30 minutes?
+1,A
+2,B
+Q47,(A) 4 bites immediately or (B) 10 bites in 17 hours?
+1,A
+2,B
+Q48,(A) 20 bites immediately or (B) 40 bites in 5 hours?
+1,A
+2,B
+Q49,(A) 31 bites immediately or (B) 45 bites in 1 hour?
+1,A
+2,B
+Q50,(A) 14 bites immediately or (B) 25 bites in 2 hours and 30 minutes?
+1,A
+2,B
+Q51,(A) 35 bites immediately or (B) 50 bites in 30 minutes?
+1,A
+2,B
+Q52,(A) 8 bites immediately or (B) 13 bites in 2 hours?
+1,A
+2,B
+Q53,"While answering these questions, what food were you thinking of?"
+Q54,Please respond to each statement below:
+Q54_1,I have an intense desire to eat one of more specific foods
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_2,I'm craving one or more specific foods
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_3,I have an urge for one or more specific foods
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_4,Eating one or more specific foods would make things seem just perfect
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_5,"If I were to eat what I am craving, I am sure my mood would improve"
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_6,Eating one or more specific foods would feel wonderful
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_7,If I ate something I wouldn't feel so sluggish and lethargic
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_8,Satisfying my craving would make me feel less grouchy and irritable
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_9,I would feel more alert if I could satisfy my cravings
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_10,"If I had one or more specific foods, I could not stop eating it"
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_11,My desire to eat [one or more specific foods] seems overpowering
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_12,I know I'm going to keep on thinking about one or more specific foods until I actually have it
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_13,I am hungry
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_14,"If i ate right now, my stomach wouldn't feel as empty"
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q54_15,I feel weak because of not eating
+1,1. Disagree Strongly
+2,2. Disagree Slightly
+3,3. Neutral
+4,4. Agree Slightly
+5,5. Agree Strongly
+Q55,"What height are you? Please state the units, e.g., feet/inches, cm."
+Q56,"How much do you weight? Please state the units, e.g., stone, lbs, kg."
+Q57,"What is your waist circumference? Please state the units, e.g., cm or inches."
+StartDate,Response start date
+CompletionDate,Submission date

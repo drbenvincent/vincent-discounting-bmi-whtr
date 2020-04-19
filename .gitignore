@@ -1,0 +1,6 @@
+*.DS_Store
+*-checkpoint.*
+*.Rhistory
+*.Rproj.user
+__pycache__
+*.png

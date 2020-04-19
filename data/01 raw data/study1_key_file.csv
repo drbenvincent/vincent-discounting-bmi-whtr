@@ -1,0 +1,267 @@
+﻿URN,Unique Response Number
+Q1,Please mark the box below to indicate you have read the participant information and understood all of the information provided.
+1,Yes I have read the participant information and understand all of the information provided
+Q2,Age? (Years)
+Q3,Gender Assigned At Birth?
+1,Female
+2,Male
+3,Prefer not to say
+Q4,(A) £54 immediately or (B) £55 in 117 days?
+1,A
+2,B
+Q5,(A) £55 immediately or (B) £75 in 61 days?
+1,A
+2,B
+Q6,(A) £19 immediately or (B) £25 in 53 days?
+1,A
+2,B
+Q7,(A) £31 immediately or (B) £85 in 7 days?
+1,A
+2,B
+Q8,(A) £14 immediately or (B) £25 in 19 days?
+1,A
+2,B
+Q9,(A) £47 immediately or (B) £50 in 160 days?
+1,A
+2,B
+Q10,(A) £15 immediately or (B) £35 in 13 days?
+1,A
+2,B
+Q11,(A) £25 immediately or (B) £60 in 14 days?
+1,A
+2,B
+Q12,(A) £78 immediately or (B) £80 in 162 days?
+1,A
+2,B
+Q13,(A) £40 immediately or (B) £55 in 62 days?
+1,A
+2,B
+Q14,(A) £11 immediately or (B) £30 in 7 days?
+1,A
+2,B
+Q15,(A) £67 immediately or (B) £75 in 119 days?
+1,A
+2,B
+Q16,(A) £34 immediately or (B) £35 in 186 days?
+1,A
+2,B
+Q17,(A) £27 immediately or (B) £50 in 21 days?
+1,A
+2,B
+Q18,(A) £69 immediately or (B) £85 in 91 days?
+1,A
+2,B
+Q19,(A) £49 immediately or (B) £60 in 89 days?
+1,A
+2,B
+Q20,(A) £80 immediately or (B) £85 in 157 days?
+1,A
+2,B
+Q21,(A) £24 immediately or (B) £35 in 29 days?
+1,A
+2,B
+Q22,(A) £33 immediatley or (B) £80 in 14 days?
+1,A
+2,B
+Q23,(A) £28 immediatley or (B) £30 in 179 days
+1,A
+2,B
+Q24,(A) £34 immediately or £50 in 30 days?
+1,A
+2,B
+Q25,(A) £25 immediately or £30 in 80 days?
+1,A
+2,B
+Q26,(A) £41 immediately or (B) £75 in 20 days?
+1,A
+2,B
+Q27,(A) £54 immediately or (B) £60 in 111 days?
+1,A
+2,B
+Q28,(A) £54 immediately or (B) £80 in 30 days?
+1,A
+2,B
+Q29,(A) £22 immediately or (B) £25 in 136 days?
+1,A
+2,B
+Q30,(A) £20 immediately or (B) £55 in 7 days?
+1,A
+2,B
+Q31,(A) 19 bites immediately or (B) 30 bites in 23 hours?
+1,A
+2,B
+Q32,(A) 20 bites immediately or (B) 40 bites in 5 hours?
+1,A
+2,B
+Q33,(A) 4 bites immediately or (B) 8 bites in 5 hours?
+1,A
+2,B
+Q34,(A) 35 bites immediately or (B) 50 bites in 30 minutes?
+1,A
+2,B
+Q35,(A) 5 bites immediately or (B) 8 bites in 1 hour 30 minutes?
+1,A
+2,B
+Q36,(A) 11 bites immediately or (B) 25 bites in 15 hours?
+1,A
+2,B
+Q37,(A) 9 bites immediately or (B) 13 bites in 1 hour?
+1,A
+2,B
+Q38,(A) 24 bites immediately or (B) 35 bites in 1 hour?
+1,A
+2,B
+Q39,(A) 28 bites immediately or (B) 45 bites in 24 hours?
+1,A
+2,B
+Q40,(A) 15 bites immediately or (B) 30 bites in 5 hours?
+1,A
+2,B
+Q41,(A) 7 bites immediately or (B) 10 bites in 30 minutes?
+1,A
+2,B
+Q42,(A) 17 bites immediately or (B) 40 bites in 10 hours
+1,A
+2,B
+Q43,(A) 5 bites immediately or (B) 8 bites in 24 hours?
+1,A
+2,B
+Q44,(A) 16 bites immediately or (B) 25 bites in 1 hour 30 minutes?
+1,A
+2,B
+Q45,(A) 23 bites immediately or (B) 50 bites in 7 hours?
+1,A
+2,B
+Q46,(A) 15 bites immediately or (B) 35 bites in 8 hours?
+1,A
+2,B
+Q47,(A) 22 bites immediately or (B) 50 bites in 15 hours?
+1,A
+2,B
+Q48,(A) 8 bites immediately or (B) 13 bites in 2 hours?
+1,A
+2,B
+Q49,(A) 31 bites immediately or (B) 45 bites in 1 hour?
+1,A
+2,B
+Q50,(A) 4 bites immediately or (B) 10 bites in 17 hours?
+1,A
+2,B
+Q51,(A) 14 bites immediately or (B) 25 bites in 2 hours 30 minutes?
+1,A
+2,B
+Q52,(A) 5 bites immediately or (B) 10 bites in 6 hours?
+1,A
+2,B
+Q53,(A) 25.5 bites immediately or (B) 40 bites in 1 hour and 30 minutes?
+1,A
+2,B
+Q54,(A) 15 bites immediately or (B) 35 bites in 10 hours?
+1,A
+2,B
+Q55,(A) 25 bites immediately or (B) 45 bites in 2 hours and 30 minutes?
+1,A
+2,B
+Q56,(A) 5 bites immediately or (B) 13 bites in 12 hours?
+1,A
+2,B
+Q57,(A) 21 bites immediately or (B) 30 bites in 30 minutes?
+1,A
+2,B
+Q58,"Throughout answering these questions, what food were you imagining?"
+Q59,Please respond to each statement below:
+Q59_1,I have an intense desire to eat one or more specific foods
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_2,I'm craving one or more specific foods
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_3,I have an urge for one or more specific foods
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_4,Eating one or more specific foods would make things seem just perfect
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_5,"If I were to eat what I am craving, I am sure my mood would improve"
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_6,Eating one or more specific foods would feel wonderful
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_7,If I ate something I wouldn't feel so sluggish and lethargic
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_8,Satisfying my craving would make me feel less grouchy and irritable
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_9,I would feel more alert if I could satisfy my craving
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_10,"If I had one or more specific foods, I could not stop eating it"
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_11,My desire to eat (one or more specific foods) seems overpowering
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_12,I know I'm going to keep on thinking about one or more specific foods until I actually have it
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_13,I am hungry
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_14,"If I ate right now, my stomach wouldn't feel as empty"
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q59_15,I feel weak because of not eating
+1,Disagree Strongly
+2,Disagree Slightly
+3,Neutral
+4,Agree Slightly
+5,Agree Strongly
+Q60,"What is your height? (Specify the unit e.g. cm, feet/inches)"
+Q61,"What is your weight (Specify the unit e.g. stone, lbs, kg)"
+Q62,"What is your waist circumference? (Specify the unit e.g. cm, inches)"
+StartDate,Response start date
+CompletionDate,Submission date
