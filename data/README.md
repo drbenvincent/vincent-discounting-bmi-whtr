@@ -21,4 +21,4 @@ Results are saved in `data/02 processed data/`.
 We then scored the raw delay discounting data using Bayesian methods. Results were saved in `data/03 scored data/`. This utilised lists of the delay discounting questions posed to participants, which are contained in `data/discounting questions`. The Python code to run the Bayesian scoring is in the Jupyter notebook (`*.ipynb`) files.
 
 ## 3. Final data
-Finally, we applied exclusion criteria to the data (see `exclusion.R`). Results were saved in `data/04 final data/`.
+Finally, we applied exclusion criteria to the data (see `exclusion.ipynb`). Results were saved in `data/04 final data/`.
